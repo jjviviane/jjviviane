@@ -1,0 +1,39 @@
+
+.container {
+
+  display: flex;
+  
+
+
+
+}
+.carousel-inner {
+
+  width: 400px;
+  height: 400px;
+}
+
+
+
+ 
+.paz {
+  background-color: rgba(0, 0, 0, 0.904);
+  color: white;
+  
+  
+
+}
+
+#instagram {
+color: rgba(233, 65, 163, 0.767);
+
+}
+#facebook {
+  color: blue;
+
+}
+#whatsapp {
+
+  background-image: green;
+  color: white;
+}
